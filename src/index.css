@@ -4,13 +4,12 @@
 body{
     font-size:30px;
   color: white;
-  background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 29%, rgba(13,31,48,0.8449579660965949) 51%, rgba(0,0,0,0.9822128680573792) 76%); 
+  background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.9822128680573792) 4%, rgba(0,0,0,1) 14%, rgba(93,0,0,0.8449579660965949) 84%);
 }
 
 html {
   height: 100%;
-  background-color:  #1b2735 !important;
   overflow: hidden;
 }
 
